@@ -1,18 +1,18 @@
-global.owner = ['62895331520602']  
-global.mods = ['62895331520602'] 
-global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
-global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.owner = ['6283894391287']  
+global.mods = ['6283894391287'] 
+global.prems = ['6283894391287']
+global.nameowner = 'Pak PurPur'
+global.numberowner = '6283894391287' 
+global.mail = 'sanasricky01@gmail.com' 
+global.gc = 'https://chat.whatsapp.com/Lk36YjtStGoCUfk96HarVE'
+global.instagram = '-'
+global.wm = '© PurPur'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
-global.author = 'Bot WhatsApp'
-global.autobio = false // Set true untuk mengaktifkan autobio
+global.author = 'NueAI'
+global.autobio = true // Set true untuk mengaktifkan autobio
 global.maxwarn = '5' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
