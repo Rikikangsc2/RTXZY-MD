@@ -1,9 +1,10 @@
+require('anjas.js')
+
 const cluster = require('cluster');
 const { spawn } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 const os = require('os');
-require('express')().get('/', (req, res) => res.send('Hello World')).listen(3000);
 let isRunning = false;
 
 function start(file) {
