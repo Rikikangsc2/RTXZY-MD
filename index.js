@@ -1,4 +1,4 @@
-require('anjas.js')
+require('./anjas.js')
 
 const cluster = require('cluster');
 const { spawn } = require('child_process');
